@@ -65,8 +65,8 @@ Our course Slack channel: dsi-sg-11
 [2-04]: ./2.04-lesson-data-visualization
 [2-05]: ./2.05-advanced-transformations-pandas
 [2-06]: ./2.06-lesson-eda
-[2-07]: ./2.07-2.08-inference_extra practice
-[2-08]: ./2.07-2.08-inference_extra practice
+[2-07]: ./2.07-lesson-statistical_inference_confidence_intervals
+[2-08]: ./2.08-lesson-hypothesis_testing
 [2-01_titanic_pandas]: ./2_01-lab-pandas-titanic
 [1-01_project_1]: ./Project1234/project_1
 
