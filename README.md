@@ -54,21 +54,21 @@ Our course Slack channel: dsi-sg-11
 
 |           | Monday      | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   |  [2.01 Pandas: Intro 1(Basics)][2-01]  | 2.02 Pandas: Intro 2 | 2.04 Principles of Data Visualization | 2.07 Inference/Confidence Interval | 2.05 Advanced transformation using Pandas |
-| Afternoon | Lab/Project Time | 2.03 Pandas Concatenation  | 2.06 Exploratory Data Analysis (EDA) | 2.08 Inference/Hypothesis Testing | Outcomes Programming |
-| Labs | | 2_01 Titanic EDA Lab |  |   |  |
+| Morning   |  [2.01 Pandas: Intro 1(Basics)][2-01]  | 2.02 Pandas: Intro 2[2-02] | 2.04 Principles of Data Visualization[2-04] | 2.07 Inference/Confidence Interval[2-07] | 2.05 Advanced transformation using Pandas[2-05] |
+| Afternoon | Lab/Project Time[1-01_project_1] | 2.03 Pandas Concatenation[2-03]  | 2.06 Exploratory Data Analysis (EDA)[2-06] | 2.08 Inference/Hypothesis Testing[2-08] | Outcomes Programming |
+| Labs | | 2_01 Titanic EDA Lab[2-01_titanic_pandas] |  |   |  |
 | Deadlines |  | |  |  |  |
 
-[2-01]: ./2.01-lesson-python-intro
-[2-02]: ./1.02-lesson-python-control-flow
-[2-03]: ./1.03-lesson-python-functions
-[2-04]: ./1.04-lesson-list-comprehension
-[2-05]: ./1.05-lesson-intro_to_probability
-[2-06]: ./1.06-lesson-discrete-distributions
-[2-07]: ./1.07-lesson-continuous-distributions
-[2-08]: ./1.08-lesson-central-limit-theorem
-[2-01_poke_lab]: ./1_01-lab-pokemon
-[2-02_dist_lab]: ./1_02-lab-distributions
+[2-01]: ./2.01-2.02-intro-to-pandas
+[2-02]: ./2.01-2.02-intro-to-pandas
+[2-03]: ./2.03-lesson-pandas-concatenation
+[2-04]: ./2.04-lesson-data-visualization
+[2-05]: ./2.05-advanced-transformations-pandas
+[2-06]: ./2.06-lesson-eda
+[2-07]: ./2.07-2.08-inference_extra practice
+[2-08]: ./2.07-2.08-inference_extra practice
+[2-01_titanic_pandas]: ./2_01-lab-pandas-titanic
+[1-01_project_1]: ./Project1234/project_1
 
 #### Week 3 - Regression
 
