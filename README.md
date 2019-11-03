@@ -54,8 +54,8 @@ Our course Slack channel: dsi-sg-11
 
 |           | Monday      | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   |  [2.01 Pandas: Intro 1(Basics)][2-01]  | [2.02 Pandas: Intro 2][2-02] | [2.04 Principles of Data Visualization][2-04] | [2.07 Inference/Confidence Interval][2-07] | [2.05 Advanced transformation using Pandas][2-05] |
-| Afternoon | [Lab/Project Time - Project 1][1-01_project_1] | [2.03 Pandas Concatenation][2-03]  | [2.06 Exploratory Data Analysis (EDA)][2-06] | [2.08 Inference/Hypothesis Testing][2-08] | Outcomes Programming |
+| Morning   |  [2.01 Pandas: Intro 1(Basics)][2-01]  | [2.02 Pandas: Intro 2][2-02] | [2.04 Principles of Data Visualization][2-04] | [2.07 Inference - Confidence Interval][2-07] | [2.05 Advanced transformation using Pandas][2-05] |
+| Afternoon | [Lab/Project Time - Project 1][1-01_project_1] | [2.03 Pandas Concatenation][2-03]  | [2.06 Exploratory Data Analysis (EDA)][2-06] | [2.08 Inference - Hypothesis Testing][2-08] | Outcomes Programming |
 | Labs | | [2_01 Titanic EDA Lab][2-01_titanic_pandas] |  |   |  |
 | Deadlines |  | |  |  |  |
 
