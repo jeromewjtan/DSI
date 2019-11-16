@@ -85,8 +85,8 @@ Our course Slack channel: dsi-sg-11
 [3-04]: ./3.04-lesson-cross-validation-train-test-split
 [3-05]: ./3.05-lesson-feature-engineering
 [3-06]: ./3.06-lesson-regularization-regression
-[3-01_linear_regression]: ./2_01-lab-pandas-titanic
-[3-02_regularization_validation]: ./2_01-lab-pandas-titanic
+[3-01_linear_regression]: ./3_01-lab-linear_regression-regression
+[3-02_regularization_validation]: ./3_02-lab-cross_validation_regularization-regression
 
 
 #### Week 4 - Classification
@@ -107,7 +107,7 @@ Our course Slack channel: dsi-sg-11
 [4-06]: ./4.06-api-integration-and-consumption
 [2-01_project_2]: ./Project1234/project_2
 [4-01_classification_comparison]: ./4_01-lab-classification_model_comparison
-[4-02_classification_evaluation]: ./4_01-lab-classification_model_evaluation
+[4-02_classification_evaluation]: ./4_02-lab-classification_model_evaluation
 
 
 #### Week 5 - Web Scraping, APIs and NLP
