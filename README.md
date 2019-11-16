@@ -74,19 +74,41 @@ Our course Slack channel: dsi-sg-11
 
 |           | Monday       | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   |  Project 1 Presentations | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | 3.06 Regularization |
-| Afternoon | Project 1 Presentations | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | Lab/Project Time | Lab/Project Time | 
-| Labs |  1-on-1 | 3_01 Linear Regression Lab | Outcomes Programming | 3_02 Regularization and Validation Lab | |
+| Morning   |  Project 1 Presentations | [3.01 Linear Regression][3-01] | [3.03 Bias-Variance Tradeoff][3-03] | [3.05 Feature Engineering][3-05] | [3.06 Regularization][3-06] |
+| Afternoon | Project 1 Presentations | [3.02 Regression Evaluation Metrics][3-02] | [3.04 Train/Test Split + Cross Validation][3-04] | Lab/Project Time | Lab/Project Time | 
+| Labs |  1-on-1 | [3_01 Linear Regression Lab][3-01_linear_regression] | Outcomes Programming | [3_02 Regularization and Validation Lab][3-02_regularization_validation] | |
 | Deadlines |  Project 1 |  |  |  | |
+
+[3-01]: ./3.01-lesson-simple_linear_regression
+[3-02]: ./3.02-regression-metrics-lesson
+[3-03]: ./3.03-bias-variance-tradeoff
+[3-04]: ./3.04-lesson-cross-validation-train-test-split
+[3-05]: ./3.05-lesson-feature-engineering
+[3-06]: ./3.06-lesson-regularization-regression
+[3-01_linear_regression]: ./2_01-lab-pandas-titanic
+[3-02_regularization_validation]: ./2_01-lab-pandas-titanic
+
 
 #### Week 4 - Classification
 
 |           | Monday         | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 3.07 Model Workflow | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Hyperparameter Tuning and Pipelines | 4.06 API Integration & Consumption |
-| Afternoon | Lab/Project Time | 4.02 k-Nearest Neighbours | 4.04 Classification Metrics II | Outcomes Programming | Lab/Project Time |
-| Labs | Outcomes Programming | 4_01 Classification Model Comparison Lab | 4_02 Classification Model Evaluation Lab | | |
+| Morning   | [3.07 Model Workflow][3-07] | [4.01 Intro to Classification + Logistic Regression][4-01] | [4.03 Classification Metrics I][4-03] | [4.05 Hyperparameter Tuning and Pipelines][4-05] | [4.06 API Integration & Consumption][4-06] |
+| Afternoon | [Lab/Project Time - Project 2][2-01_project_2] | [4.02 k-Nearest Neighbours][4-02] | [4.04 Classification Metrics II][4-04] | Outcomes Programming | Lab/Project Time |
+| Labs | Outcomes Programming | [4_01 Classification Model Comparison Lab][4-01_classification_comparison] | [4_02 Classification Model Evaluation Lab][4-02_classification_evaluation] | | |
 | Deadlines | |  |  |  | 
+
+[3-07]: ./3.07-lesson-model-workflow
+[4-01]: ./4.01-lesson-logistic_regression
+[4-02]: ./4.02-lesson-knn
+[4-03]: ./4.03-lesson-classification_metrics_i
+[4-04]: ./4.04-lesson-classification_metrics_ii
+[4-05]: ./4.05-optimization-gridsearch_hyperparameters-lesson
+[4-06]: ./4.06-api-integration-and-consumption
+[2-01_project_2]: ./Project1234/project_2
+[4-01_classification_comparison]: ./4_01-lab-classification_model_comparison
+[4-02_classification_evaluation]: ./4_01-lab-classification_model_evaluation
+
 
 #### Week 5 - Web Scraping, APIs and NLP
 
