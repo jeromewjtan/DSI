@@ -114,10 +114,23 @@ Our course Slack channel: dsi-sg-11
 
 |           | Monday       | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   |  Project 2 Presentations | 5.01 Intro to HTML | 5.03 API & Flask | 5.05 NLP I | 5.07 Naive Bayes |
-| Afternoon |  Explore APIs | 5.02 Web Scraping using BeautifulSoup | 5.04 Introduction to AWS | 5.06 NLP II | 5.08 Regex | 
-| Labs | 5_01 Scraping Lab |  | 5_02 NLP Lab | Outcomes Programming | |
+| Morning   |  [Explore APIs][4-07] | [5.01 Intro to HTML][5-01] | [5.03 API & Flask][5-03] | [5.05 NLP I][5-05] | [5.07 Naive Bayes][5-07] |
+| Afternoon |  Project 2 Presentations | [5.02 Web Scraping using BeautifulSoup][5-02] | [5.04 Introduction to AWS][5-04] | [5.06 NLP II][5-06] | [5.08 Regex][5-08] | 
+| Labs |  | [5_01 Scraping Lab][5-01_scraping] | [5_02 NLP Lab][5-02_nlp] | Outcomes Programming | |
 | Deadlines | Project 2 |  |  |  |  |
+
+[4-07]: ./4.06-api-integration-and-consumption
+[5-01]: ./5.01-lesson-html-css
+[5-02]: ./5.02-lesson-webscraping
+[5-03]: ./5.03-intro-to-apis-and-flask
+[5-04]: ./5.04-lesson-intro-to-aws
+[5-05]: ./5.05-lesson-nlp_i
+[5-06]: ./5.06-lesson-nlp_ii
+[5-07]: ./5.07-lesson-naive_bayes
+[5-07]: ./5.08-lesson-regex
+[2-01_project_2]: ./Project1234/project_2
+[5-01_scraping]: ./5_01-lab-beautiful_soup-webscraping
+[5-02_nlp]: ./5_02-lab-intro_to_nlp
 
 
 #### Week 6 - Advanced Supervised Learning
@@ -128,6 +141,8 @@ Our course Slack channel: dsi-sg-11
 | Afternoon | Lab/Project Time  | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | Project 3 Review & Prep | 
 | Labs | | 6.01 Supervised Model Comparison Lab | |Outcomes Programming | |
 | Deadlines |  |  |  | | Capstone Check-in 1 |
+
+[5-09]: ./5.09-lesson-object-oriented-programming
 
 #### Week 7 - Unsupervised Learning
 
