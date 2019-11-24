@@ -127,7 +127,7 @@ Our course Slack channel: dsi-sg-11
 [5-05]: ./5.05-lesson-nlp_i
 [5-06]: ./5.06-lesson-nlp_ii
 [5-07]: ./5.07-lesson-naive_bayes
-[5-07]: ./5.08-lesson-regex
+[5-08]: ./5.08-lesson-regex
 [2-01_project_2]: ./Project1234/project_2
 [5-01_scraping]: ./5_01-lab-beautiful_soup-webscraping
 [5-02_nlp]: ./5_02-lab-intro_to_nlp
