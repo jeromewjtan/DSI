@@ -137,11 +137,20 @@ Our course Slack channel: dsi-sg-11
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 5.09 Object-Oriented Programming | 6.01 CART | 6.03 Random Forests and Extra Trees | 6.05 SVMs | 6.07 Gradient Descent | 
-| Afternoon | Lab/Project Time  | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | Project 3 Review & Prep | 
-| Labs | | 6.01 Supervised Model Comparison Lab | |Outcomes Programming | |
+| Morning   | [5.09 Object-Oriented Programming][5-09] | [6.01 CART][6-01] | [6.03 Random Forests and Extra Trees][6-03] | [6.05 SVMs][6-05] | [6.07 Gradient Descent][6-07] | 
+| Afternoon | [Project 3 Time][3-01_project_3] | [6.02 Bootstrapping and Bagging][6-02] | [6.04 Boosting][6-04] | [6.06 GLMs][6-06] | [Project 3 Review & Prep][3-01_project_3] | 
+| Labs | | [6.01 Supervised Model Comparison Lab][6-01-lab] | |Outcomes Programming | |
 | Deadlines |  |  |  | | Capstone Check-in 1 |
 
+[6-01]: ./6.01-lesson-decision_trees
+[6-02]: ./6.02-lesson-bagging
+[6-03]: ./6.03-lesson-random-forests
+[6-04]: ./6.04-lesson-boosting
+[6-05]: ./6.05-lesson-support_vector_machines-svm
+[6-06]: ./6.06-lesson-generalized_linear_models
+[6-07]: ./6.07-lesson-gradient_descent-master
+[3-01_project_3]: ./Project1234/project_3
+[6-01-lab]: ./6_01-lab-supervised_learning_models
 [5-09]: ./5.09-lesson-object-oriented-programming
 
 #### Week 7 - Unsupervised Learning
