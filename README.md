@@ -160,16 +160,16 @@ Our course Slack channel: dsi-sg-11
 | Morning   | [Project 3 Presentations][3-01_project_3] | [8.01 Intro to Clustering: K-Means][8_01] | [8.03 Clustering Walkthrough][8_03] | [8.05 Recommender Systems I][8_05] | [8.06 Recommender Systems II][8_06]  |
 | Afternoon | 1-on-1 | [8.02 DBSCAN Clustering][8_02] | [8.04 PCA][8_04] | Outcomes Programming | [8.07 Missing Data Imputation][8_07] |
 | Labs      | | [8_01 Clustering Lab][8-01-lab] | [8_02 PCA Lab][8-02-lab] |  |  |  
-| Deadlines |  Project 3 | | | [Capstone Check-in 2][] |  |
+| Deadlines |  Project 3 | | | Capstone Check-in 2 |  |
 
-[8-01]: ./8.01-lesson-intro-to-Clustering-kmeans
-[8-02]: ./8.02-lesson-dbscan
-[8-03]: ./8.03-lesson-clustering-hierarchical_clustering
-[8-04]: ./8.04-lesson-pca-intro-pca
-[8-05]: ./8.05-lesson-recommender-systems-i
-[8-06]: ./8.06-lesson-recommender-systems-ii
-[8-07]: ./8.07-lesson-data_science_with_missing_data
-[8-08]: ./8.08-lesson-word_vectors
+[8_01]: ./8.01-lesson-intro-to-Clustering-kmeans
+[8_02]: ./8.02-lesson-dbscan
+[8_03]: ./8.03-lesson-clustering-hierarchical_clustering
+[8_04]: ./8.04-lesson-pca-intro-pca
+[8_05]: ./8.05-lesson-recommender-systems-i
+[8_06]: ./8.06-lesson-recommender-systems-ii
+[8_07]: ./8.07-lesson-data_science_with_missing_data
+[8_08]: ./8.08-lesson-word_vectors
 [3-01_project_3]: ./Project1234/project_3
 [8-01-lab]: ./8_01-lab-battle-of-clusters
 [8-02-lab]: ./8_02-lab-principal_component_analysis
