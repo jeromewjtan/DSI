@@ -181,7 +181,7 @@ Our course Slack channel: dsi-sg-11
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [7.01 Intro to Correlated Data][7_01] | [7.03 AR/MA/ARMA][7_03] | [7.05 Spatial Data Analysis][7_05] | [7.07 Benford's Law][7_07] | [8.04 PCA][8_04] |
 | Afternoon | [7.02 Intro to Time Series/Autocorrelation][7_02] | [7.04 Advanced Time Series Analysis][7_04] | [7.06 Network Analysis][7_06] | Outcomes Programming | [8.07 Missing Data Imputation][8_07] |
-| Labs      | [7_01 Correlated Data Lab][7-01-lab] | [7_02 Time Series Lab][7-02-lab] |  |  |  |
+| Labs      | [7_01 Correlated Data Lab][7-01-lab] | [7_02 Time Series Lab][7-02-lab] |  |  |[8_02 PCA Lab][8-02-lab]|
 | Deadlines |  |  |  | Capstone Check-in 3 |  |
 
 [7_01]: ./7.01-Intro-to-Correlated-Data
