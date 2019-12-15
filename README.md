@@ -179,21 +179,36 @@ Our course Slack channel: dsi-sg-11
 
 |           | Monday       | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 7.01 Intro to Correlated Data | 7.03 AR/MA/ARMA | 7.05 Spatial Data Analysis | 7.07 Benford's Law | Project 4 Presentations |
-| Afternoon | 7.02 Intro to Time Series/Autocorrelation | 7.04 Advanced Time Series Analysis | 7.06 Network Analysis | Outcomes Programming | Lab/Project Time |
-| Labs      | 7_01 Correlated Data Lab | 7_02 Time Series Lab |  |  |  |
-| Deadlines |  |  |  | Capstone Check-in 3 | Project 4 |
+| Morning   | [7.01 Intro to Correlated Data][7_01] | [7.03 AR/MA/ARMA][7_03] | [7.05 Spatial Data Analysis][7_05] | [7.07 Benford's Law][7_07] | [8.04 PCA][8_04] |
+| Afternoon | [7.02 Intro to Time Series/Autocorrelation][7_02] | [7.04 Advanced Time Series Analysis][7_04] | [7.06 Network Analysis][7_06] | Outcomes Programming | [8.07 Missing Data Imputation][8_07] |
+| Labs      | [7_01 Correlated Data Lab][7-01-lab] | [7_02 Time Series Lab][7-02-lab] |  |  |  |
+| Deadlines |  |  |  | Capstone Check-in 3 |  |
 
+[7_01]: ./7.01-Intro-to-Correlated-Data
+[7_02]: ./7.02-Intro-to-Time-Series-Autocorrelation
+[7_03]: ./7.03-AR-MA-ARMA
+[7_04]: ./7.04-Advanced-Time-Series-Analysis
+[7_05]: ./7.05-Spatial-Data-Analysis
+[7_06]: ./7.06-Network-Analysis
+[7_07]: ./7.07-Benfords-Law
+[7_08]: ./7.08-lesson-word_vectors
+[8_04]: ./8.04-lesson-pca-intro-pca
+[8_07]: ./8.07-lesson-data_science_with_missing_data
+[7-01-lab]: ./7_01-Correlated-Data-Lab
+[7-02-lab]: ./7_02-Time-Series-Lab
+[8-02-lab]: ./8_02-lab-principal_component_analysis
 
 
 #### Week 9 - Deep Learning
 
 |           | Monday      | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 10.01 Introduction to Neural Networks | 10.03 Deep Learning Regularization | 10.04 Convolutional Neural Networks| 10.05 Recurrent Neural Networks | 10.06 Introduction to TensorFlow |
-| Afternoon | 10.02 Introduction to Keras | Lab/Project Time | 1-on-1 | Outcomes Programming| 1-on-1 |
+| Morning   | [Project 4 Presentations][4-01_project_4]  | 10.02 Introduction to Keras | 10.04 Convolutional Neural Networks| 10.05 Recurrent Neural Networks | 10.06 Introduction to TensorFlow |
+| Afternoon | 10.01 Introduction to Neural Networks | 10.03 Deep Learning Regularization | 1-on-1 | Outcomes Programming| 1-on-1 |
 | Labs      | 10_01 Conceptual Neural Networks Lab |  | 10_02 Applied Neural Networks Lab |  |  |
-| Deadlines | |  | | Capstone Check-in 4 |  |
+| Deadlines | Project 4|  | | Capstone Check-in 4 |  |
+
+[4-01_project_4]: ./Project1234/project_4
 
 #### Week 10 - Big Data & Data Engineering
 
