@@ -191,7 +191,6 @@ Our course Slack channel: dsi-sg-11
 [7_05]: ./7.05-Spatial-Data-Analysis
 [7_06]: ./7.06-Network-Analysis
 [7_07]: ./7.07-Benfords-Law
-[7_08]: ./7.08-lesson-word_vectors
 [8_04]: ./8.04-lesson-pca-intro-pca
 [8_07]: ./8.07-lesson-data_science_with_missing_data
 [7-01-lab]: ./7_01-Correlated-Data-Lab
