@@ -205,7 +205,7 @@ Our course Slack channel: dsi-sg-11
 | Morning   |  [10.01 Introduction to Neural Networks][10-01] | [10.02 Introduction to Keras][10-02] | [10.04 Convolutional Neural Networks][10-04]| [10.05 Recurrent Neural Networks][10-05] | [10.06 Introduction to TensorFlow][10-06] |
 | Afternoon | [Project 4 Presentations][4-01_project_4] | [10.03 Deep Learning Regularization][10-03] | 1-on-1 | Outcomes Programming| 1-on-1 |
 | Labs      | [10_01 Conceptual Neural Networks Lab][10-01-Conceptual-NN-Lab] |  | [10_02 Applied Neural Networks Lab][10-02-Applied-NN-Lab] |  |  |
-| Deadlines | [Capstone Check-in 2][cap-2] |  | [Capstone Check-in 3][cap-3] |  | [Capstone Check-in 4][cap-4] |
+| Deadlines | [Capstone Check-in 2][2-cap] |  | [Capstone Check-in 3][3-cap] |  | [Capstone Check-in 4][4-cap] |
 
 [4-01_project_4]: ./Project1234/project_4
 [10-01]: ./10.01-lesson-intro-to-neural-networks
@@ -216,9 +216,9 @@ Our course Slack channel: dsi-sg-11
 [10-06]: ./10.06-lesson-tensorflow
 [10-01-Conceptual-NN-Lab]: ./10_01-lab-neural_network_conceptual
 [10-02-Applied-NN-Lab]: ./10_02-lab-neural_network_applied
-[cap-2]: ./12-capstone project/part_02
-[cap-3]: ./12-capstone project/part_03
-[cap-4]: ./12-capstone project/part_04
+[2-cap]: ./12-capstone project/part_02
+[3-cap]: ./12-capstone project/part_03
+[4-cap]: ./12-capstone project/part_04
 
 #### Week 10 - Big Data & Data Engineering
 
@@ -227,7 +227,7 @@ Our course Slack channel: dsi-sg-11
 | Morning   | [11.01 SQL I][11-01] | [11.03 Introduction to Scala][11-03] | [11.05 Classification & Regression in Spark][11-05] | [11.07 Docker on AWS][11-07] | [Project 4 Presentations][4-01_project_4] |
 | Afternoon | [11.02 SQL II[11-02] | [11.04 DataFrames in Spark][11-04] | [11.06 Pipelines & GridSearch in Spark][11-06] | Outcomes programming | Lab/Project time |
 | Labs      | [11_01 SQL Lab][11-01-SQL-Lab] |  | [11_02 Spark Model][11-02-Spark] |  |  |
-| Deadlines |  |  | | [Capstone Check-in 5][cap-5] | |
+| Deadlines |  |  | | [Capstone Check-in 5][5-cap] | |
 
 [4-01_project_4]: ./Project1234/project_4
 [11-01]: ./11.01-lesson-sql_I
@@ -237,7 +237,7 @@ Our course Slack channel: dsi-sg-11
 [11-05]: ./11.05-lesson-spark-ml
 [11-06]: ./11.06-lesson-spark-pipelines
 [11-07]: ./11.07-docker-on-aws
-[cap-5]: ./12-capstone project/part_05
+[5-cap]: ./12-capstone project/part_05
 
 #### Week 11 - Bayesian Statistics
 
