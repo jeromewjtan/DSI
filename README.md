@@ -216,9 +216,9 @@ Our course Slack channel: dsi-sg-11
 [10-06]: ./10.06-lesson-tensorflow
 [10-01-Conceptual-NN-Lab]: ./10_01-lab-neural_network_conceptual
 [10-02-Applied-NN-Lab]: ./10_02-lab-neural_network_applied
-[2-cap]: ./12-capstone project/part_02
-[3-cap]: ./12-capstone project/part_03
-[4-cap]: ./12-capstone project/part_04
+[2-cap]: ./12-capstone-project/part_02
+[3-cap]: ./12-capstone-project/part_03
+[4-cap]: ./12-capstone-project/part_04
 
 #### Week 10 - Big Data & Data Engineering
 
@@ -237,7 +237,7 @@ Our course Slack channel: dsi-sg-11
 [11-05]: ./11.05-lesson-spark-ml
 [11-06]: ./11.06-lesson-spark-pipelines
 [11-07]: ./11.07-docker-on-aws
-[5-cap]: ./12-capstone project/part_05
+[5-cap]: ./12-capstone-project/part_05
 
 #### Week 11 - Bayesian Statistics
 
