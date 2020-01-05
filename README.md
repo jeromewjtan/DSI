@@ -238,15 +238,25 @@ Our course Slack channel: dsi-sg-11
 [11-06]: ./11.06-lesson-spark-pipelines
 [11-07]: ./11.07-docker-on-aws
 [5-cap]: ./12-capstone-project/part_05
+[11-01-SQL-Lab]: ./11_01-lab-sql
+[11-02-Spark]: ./11_02-lab-spark-model
 
 #### Week 11 - Bayesian Statistics
 
 |           | Monday       | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Intro to Bayes | 9.03 PyMC & Bayesian Regression | Flex Time | Flex Time | 9.05 Markov chain Monte Carlo |
-| Afternoon | 9.02 Bayesian Inference | 9.04 Maximum Likelihood | Flex Time | Flex Time | 9.06 Bayesian Estimation & A/B Testing |
-| Labs      | 9_01 Bayes Data |  |  |  |  |
+| Morning   | [9.01 Intro to Bayes][9-01] | [9.03 PyMC & Bayesian Regression][9-03] | Flex Time | Flex Time | [9.05 Markov chain Monte Carlo][9-05] |
+| Afternoon | [9.02 Bayesian Inference][9-02] | [9.04 Maximum Likelihood][9-04] | Flex Time | Flex Time | [9.06 Bayesian Estimation & A/B Testing][9-06] |
+| Labs      | [9_01 Bayes Data][9-01-lab] |  |  |  |  |
 | Deadlines |  |  |  |  | Capstone Check-in 6 |
+
+[9-01]: ./9.01-lesson-intro-to-bayes
+[9-02]: ./9.02-lesson-bayesian_inference
+[9-03]: ./9.03-lesson-pymc3-bayes
+[9-04]: ./9.04-lesson-bayes-conjugacy-mle
+[9-05]: ./9.05-lesson-mcmc
+[9-06]: ./9.06-ab-testing
+[9-01-lab]: ./9_01-lab-bayes_data
 
 #### Week 12 - Flex Time & Capstones
 
