@@ -225,7 +225,7 @@ Our course Slack channel: dsi-sg-11
 |           | Monday      | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [11.01 SQL I][11-01] | [11.03 Introduction to Scala][11-03] | [11.05 Classification & Regression in Spark][11-05] | [11.07 Docker on AWS][11-07] | [Project 4 Presentations][4-01_project_4] |
-| Afternoon | [11.02 SQL II[11-02] | [11.04 DataFrames in Spark][11-04] | [11.06 Pipelines & GridSearch in Spark][11-06] | Outcomes programming | Lab/Project time |
+| Afternoon | [11.02 SQL II][11-02] | [11.04 DataFrames in Spark][11-04] | [11.06 Pipelines & GridSearch in Spark][11-06] | Outcomes programming | Lab/Project time |
 | Labs      | [11_01 SQL Lab][11-01-SQL-Lab] |  | [11_02 Spark Model][11-02-Spark] |  |  |
 | Deadlines |  |  | | [Capstone Check-in 5][5-cap] | |
 
